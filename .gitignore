@@ -1,0 +1,10 @@
+* 
+!*/
+!.gitignore
+!requirements.txt
+!Ejercicios.ipynb
+!Proyecto.ipynb
+!DATOS/
+!DATOS/**
+!work/
+!work/**
